@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {}
+    "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {}
   },
   "projects": {
-    "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {
+    "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
+        "projectUniqueName": "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
         "projectName": "playgorund.api",
-        "projectPath": "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
+        "projectPath": "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
         "packagesPath": "C:\\Users\\WAYTHIN\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet projects\\playground\\playgorund.api\\obj\\",
+        "outputPath": "d:\\dotnet projects\\playground\\playgorund.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WAYTHIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
