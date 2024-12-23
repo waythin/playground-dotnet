@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8FqhGt/yuMBZ85wzHc6seZhBtmZav+3j8s2RI0pXt/I=",
+  "Source": "playgorund.api",
+  "BasePath": "_content/playgorund.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
