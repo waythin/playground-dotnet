@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("playgorund.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab6f5ad28e4017724bc0f0eef191d63b123fd64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63ab3036438138bf5f788abaa6a5eec2e384f10")]
 [assembly: System.Reflection.AssemblyProductAttribute("playgorund.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("playgorund.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
