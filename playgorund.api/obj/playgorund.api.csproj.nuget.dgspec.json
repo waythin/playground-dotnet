@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {}
+    "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {}
   },
   "projects": {
-    "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {
+    "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
+        "projectUniqueName": "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
         "projectName": "playgorund.api",
-        "projectPath": "d:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
+        "projectPath": "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
         "packagesPath": "C:\\Users\\WAYTHIN\\.nuget\\packages\\",
-        "outputPath": "d:\\dotnet projects\\playground\\playgorund.api\\obj\\",
+        "outputPath": "D:\\dotnet projects\\playground\\playgorund.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WAYTHIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MinimalApis.Extensions": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
