@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "Lh9pAMfgkVo=",
+  "dgSpecHash": "4Fu7wpHcogQ=",
   "success": true,
   "projectFilePath": "D:\\dotnet projects\\playground\\playgorund.api\\playgorund.api.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\WAYTHIN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\WAYTHIN\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\WAYTHIN\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\dotnet projects\\playground\\playgorund.api\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
