@@ -27,3 +27,9 @@ D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\refint\playgorund.
 D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\playgorund.api.pdb
 D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\playgorund.api.genruntimeconfig.cache
 D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\ref\playgorund.api.dll
+D:\dotnet projects\playground\playgorund.api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\dotnet projects\playground\playgorund.api\bin\Debug\net9.0\MinimalApis.Extensions.dll
+D:\dotnet projects\playground\playgorund.api\bin\Debug\net9.0\MiniValidation.dll
+D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\playgorund.api.csproj.AssemblyReference.cache
+D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\playgorund.api.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet projects\playground\playgorund.api\obj\Debug\net9.0\playgoru.A08DBBEC.Up2Date
